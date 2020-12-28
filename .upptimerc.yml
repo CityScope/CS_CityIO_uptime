@@ -7,11 +7,16 @@ repo: CS_CityIO_uptime # Your GitHub repository name
 sites:
   - name: CityIO
     url: https://cityio.media.mit.edu/
+    assignees:
+      - yasushisakai
   - name: CityScope
     url: https://cityscope.media.mit.edu/
+    assignees:
+      - RELNO
+  - name: CityScope Editor
+    url: https://cityscope.media.mit.edu/CS_cityscopeJS/?editor
   - name: CorkTown
     url: https://cityscope.media.mit.edu/CS_cityscopeJS/?cityscope=corktown
-
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
