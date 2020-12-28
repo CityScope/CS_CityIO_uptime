@@ -4,7 +4,6 @@ owner: CityScope # Your GitHub username
 repo: CS_CityIO_uptime # Your GitHub repository name
 
 env:
-  NOTIFICATION_SLACK_WEBHOOK_URL = https://hooks.slack.com/services/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
   NOTIFICATION_SLACK = True
   NOTIFICATION_SLACK_WEBHOOK = True
 
