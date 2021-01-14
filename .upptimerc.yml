@@ -13,6 +13,7 @@ sites:
     url: https://cityio.media.mit.edu/
     assignees:
       - yasushisakai
+      - RELNO
   - name: CityScope
     url: https://cityscope.media.mit.edu/
     assignees:
