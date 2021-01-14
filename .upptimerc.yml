@@ -19,6 +19,8 @@ sites:
       - RELNO
   - name: CityScope Editor
     url: https://cityscope.media.mit.edu/CS_cityscopeJS/?editor
+    assignees:
+      - RELNO
   - name: CorkTown
     url: https://cityscope.media.mit.edu/CS_cityscopeJS/?cityscope=corktown
 
