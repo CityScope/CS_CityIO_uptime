@@ -4,8 +4,8 @@ owner: CityScope # Your GitHub username
 repo: CS_CityIO_uptime # Your GitHub repository name
 
 env:
-  NOTIFICATION_SLACK = True
-  NOTIFICATION_SLACK_WEBHOOK = True
+  NOTIFICATION_SLACK = true
+  NOTIFICATION_SLACK_WEBHOOK = true
 
 # Add your sites here
 sites:
