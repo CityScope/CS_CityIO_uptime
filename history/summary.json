@@ -4,18 +4,20 @@
     "url": "https://cityio.media.mit.edu/",
     "icon": "https://favicons.githubusercontent.com/cityio.media.mit.edu",
     "slug": "city-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 353,
-    "timeDay": 303,
-    "timeWeek": 443,
-    "timeMonth": 353,
-    "timeYear": 353,
-    "dailyMinutesDown": {}
+    "time": 350,
+    "timeDay": 295,
+    "timeWeek": 426,
+    "timeMonth": 350,
+    "timeYear": 350,
+    "dailyMinutesDown": {
+      "2021-01-14": 0
+    }
   },
   {
     "name": "CityScope",
@@ -29,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 14,
-    "timeDay": 15,
+    "timeDay": 14,
     "timeWeek": 15,
     "timeMonth": 14,
     "timeYear": 14,
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 15,
     "timeDay": 17,
-    "timeWeek": 15,
+    "timeWeek": 16,
     "timeMonth": 15,
     "timeYear": 15,
     "dailyMinutesDown": {}
@@ -65,8 +67,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 14,
-    "timeDay": 9,
-    "timeWeek": 13,
+    "timeDay": 10,
+    "timeWeek": 12,
     "timeMonth": 14,
     "timeYear": 14,
     "dailyMinutesDown": {}
