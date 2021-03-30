@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 322,
-    "timeDay": 400,
-    "timeWeek": 393,
-    "timeMonth": 312,
-    "timeYear": 322,
+    "time": 323,
+    "timeDay": 488,
+    "timeWeek": 385,
+    "timeMonth": 318,
+    "timeYear": 323,
     "dailyMinutesDown": {
       "2021-02-09": 40,
       "2021-02-01": 22,
@@ -27,17 +27,21 @@
     "icon": "https://favicons.githubusercontent.com/cityscope.media.mit.edu",
     "slug": "city-scope",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.93%",
     "time": 18,
-    "timeDay": 22,
-    "timeWeek": 22,
-    "timeMonth": 25,
+    "timeDay": 11,
+    "timeWeek": 19,
+    "timeMonth": 24,
     "timeYear": 18,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-09": 40,
+      "2021-02-01": 22,
+      "2021-01-14": 25
+    }
   },
   {
     "name": "CityScope Editor",
@@ -45,17 +49,21 @@
     "icon": "https://favicons.githubusercontent.com/cityscope.media.mit.edu",
     "slug": "city-scope-editor",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.93%",
     "time": 16,
     "timeDay": 12,
-    "timeWeek": 24,
+    "timeWeek": 19,
     "timeMonth": 19,
     "timeYear": 16,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-09": 40,
+      "2021-02-01": 22,
+      "2021-01-14": 25
+    }
   },
   {
     "name": "CorkTown",
@@ -63,16 +71,20 @@
     "icon": "https://favicons.githubusercontent.com/cityscope.media.mit.edu",
     "slug": "cork-town",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.93%",
     "time": 15,
-    "timeDay": 19,
-    "timeWeek": 22,
-    "timeMonth": 18,
+    "timeDay": 9,
+    "timeWeek": 18,
+    "timeMonth": 17,
     "timeYear": 15,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-09": 40,
+      "2021-02-01": 22,
+      "2021-01-14": 25
+    }
   }
 ]
