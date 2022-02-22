@@ -70,19 +70,19 @@
     "url": "https://cityscope.media.mit.edu/CS_cityscopeJS/?editor",
     "icon": "https://favicons.githubusercontent.com/cityscope.media.mit.edu",
     "slug": "city-scope-editor",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 24,
-    "timeDay": 9,
-    "timeWeek": 39,
-    "timeMonth": 31,
+    "timeDay": 10,
+    "timeWeek": 36,
+    "timeMonth": 30,
     "timeYear": 26,
     "dailyMinutesDown": {
-      "2022-02-22": 0
+      "2022-02-22": 13
     }
   },
   {
