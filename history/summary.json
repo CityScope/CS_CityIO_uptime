@@ -5,7 +5,7 @@
     "icon": "https://favicons.githubusercontent.com/cityio.media.mit.edu",
     "slug": "city-io",
     "status": "up",
-    "uptime": "97.35%",
+    "uptime": "97.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "85.58%",
@@ -70,18 +70,20 @@
     "url": "https://cityscope.media.mit.edu/CS_cityscopeJS/?editor",
     "icon": "https://favicons.githubusercontent.com/cityscope.media.mit.edu",
     "slug": "city-scope-editor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 24,
-    "timeDay": 6,
-    "timeWeek": 43,
+    "timeDay": 9,
+    "timeWeek": 39,
     "timeMonth": 31,
     "timeYear": 26,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-22": 0
+    }
   },
   {
     "name": "CorkTown",
