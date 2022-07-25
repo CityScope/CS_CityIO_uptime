@@ -4,7 +4,7 @@
     "url": "https://cityio.media.mit.edu/",
     "icon": "https://favicons.githubusercontent.com/cityio.media.mit.edu",
     "slug": "city-io",
-    "status": "up",
+    "status": "down",
     "uptime": "96.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.72%",
@@ -16,6 +16,7 @@
     "timeMonth": 403,
     "timeYear": 378,
     "dailyMinutesDown": {
+      "2022-07-25": 0,
       "2022-07-19": 734,
       "2022-07-12": 413,
       "2022-07-05": 298,
