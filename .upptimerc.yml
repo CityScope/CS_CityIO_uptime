@@ -11,6 +11,7 @@ env:
 sites:
   - name: CityIO
     url: https://cityio.media.mit.edu/
+    maxResponseTime: 5000
     assignees:
       - yasushisakai
       - RELNO
