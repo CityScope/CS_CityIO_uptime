@@ -14,7 +14,7 @@ sites:
     assignees:
       - yasushisakai
       - RELNO
-  - name: CityScope
+  - name: CityScope Docsite
     url: https://cityscope.media.mit.edu/
     assignees:
       - RELNO
@@ -22,8 +22,6 @@ sites:
     url: https://cityscope.media.mit.edu/CS_cityscopeJS/?editor
     assignees:
       - RELNO
-  - name: CorkTown
-    url: https://cityscope.media.mit.edu/CS_cityscopeJS/?cityscope=corktown
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
