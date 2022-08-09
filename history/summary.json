@@ -6,17 +6,16 @@
     "slug": "city-io",
     "status": "up",
     "uptime": "96.04%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "93.97%",
-    "uptimeMonth": "94.82%",
-    "uptimeYear": "94.53%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "94.06%",
+    "uptimeMonth": "94.85%",
+    "uptimeYear": "94.55%",
     "time": 372,
-    "timeDay": 515,
-    "timeWeek": 455,
-    "timeMonth": 434,
+    "timeDay": 477,
+    "timeWeek": 443,
+    "timeMonth": 431,
     "timeYear": 389,
     "dailyMinutesDown": {
-      "2022-08-08": 10,
       "2022-08-06": 16,
       "2022-08-05": 17,
       "2022-08-04": 20,
@@ -60,8 +59,7 @@
       "2021-09-17": 757,
       "2021-09-16": 1025,
       "2021-09-14": 345,
-      "2021-08-14": 407,
-      "2021-08-09": 268
+      "2021-08-14": 407
     }
   },
   {
@@ -75,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 48,
-    "timeDay": 108,
-    "timeWeek": 48,
-    "timeMonth": 48,
-    "timeYear": 48,
+    "time": 43,
+    "timeDay": 11,
+    "timeWeek": 43,
+    "timeMonth": 43,
+    "timeYear": 43,
     "dailyMinutesDown": {}
   },
   {
@@ -94,8 +92,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 23,
-    "timeDay": 12,
-    "timeWeek": 9,
+    "timeDay": 8,
+    "timeWeek": 10,
     "timeMonth": 9,
     "timeYear": 24,
     "dailyMinutesDown": {}
