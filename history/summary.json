@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/cityio.media.mit.edu",
     "slug": "city-io",
     "status": "up",
-    "uptime": "95.97%",
+    "uptime": "95.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.82%",
+    "uptimeWeek": "91.98%",
     "uptimeMonth": "93.94%",
     "uptimeYear": "94.45%",
-    "time": 377,
-    "timeDay": 443,
-    "timeWeek": 474,
-    "timeMonth": 435,
+    "time": 378,
+    "timeDay": 617,
+    "timeWeek": 481,
+    "timeMonth": 437,
     "timeYear": 392,
     "dailyMinutesDown": {
       "2022-08-10": 259,
@@ -60,8 +60,7 @@
       "2021-10-14": 139,
       "2021-09-17": 757,
       "2021-09-16": 1025,
-      "2021-09-14": 345,
-      "2021-08-14": 407
+      "2021-09-14": 345
     }
   },
   {
@@ -75,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 51,
-    "timeDay": 55,
-    "timeWeek": 63,
-    "timeMonth": 51,
-    "timeYear": 51,
+    "time": 54,
+    "timeDay": 92,
+    "timeWeek": 68,
+    "timeMonth": 54,
+    "timeYear": 54,
     "dailyMinutesDown": {}
   },
   {
@@ -94,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 23,
-    "timeDay": 14,
-    "timeWeek": 9,
-    "timeMonth": 9,
+    "timeDay": 6,
+    "timeWeek": 8,
+    "timeMonth": 8,
     "timeYear": 24,
     "dailyMinutesDown": {}
   }
