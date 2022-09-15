@@ -4,18 +4,19 @@
     "url": "https://cityio.media.mit.edu/",
     "icon": "https://favicons.githubusercontent.com/cityio.media.mit.edu",
     "slug": "city-io",
-    "status": "up",
-    "uptime": "96.17%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.18%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "94.52%",
+    "uptimeYear": "94.59%",
     "time": 376,
-    "timeDay": 394,
-    "timeWeek": 397,
-    "timeMonth": 464,
-    "timeYear": 394,
+    "timeDay": 370,
+    "timeWeek": 378,
+    "timeMonth": 445,
+    "timeYear": 393,
     "dailyMinutesDown": {
+      "2022-09-15": 0,
       "2022-08-16": 18,
       "2022-08-10": 259,
       "2022-08-09": 549,
@@ -60,8 +61,7 @@
       "2021-10-15": 234,
       "2021-10-14": 139,
       "2021-09-17": 757,
-      "2021-09-16": 1025,
-      "2021-09-14": 345
+      "2021-09-16": 1025
     }
   },
   {
@@ -69,35 +69,39 @@
     "url": "https://cityscope.media.mit.edu/",
     "icon": "https://favicons.githubusercontent.com/cityscope.media.mit.edu",
     "slug": "city-scope-docsite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 51,
-    "timeDay": 59,
-    "timeWeek": 31,
+    "time": 52,
+    "timeDay": 71,
+    "timeWeek": 40,
     "timeMonth": 51,
-    "timeYear": 51,
-    "dailyMinutesDown": {}
+    "timeYear": 52,
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "CityScope Editor",
     "url": "https://cityscope.media.mit.edu/CS_cityscopeJS/?editor",
     "icon": "https://favicons.githubusercontent.com/cityscope.media.mit.edu",
     "slug": "city-scope-editor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 23,
-    "timeDay": 14,
+    "timeDay": 8,
     "timeWeek": 10,
     "timeMonth": 11,
     "timeYear": 20,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   }
 ]
