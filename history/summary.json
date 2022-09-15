@@ -4,19 +4,19 @@
     "url": "https://cityio.media.mit.edu/",
     "icon": "https://favicons.githubusercontent.com/cityio.media.mit.edu",
     "slug": "city-io",
-    "status": "down",
+    "status": "up",
     "uptime": "96.18%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "94.59%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "94.58%",
     "time": 376,
-    "timeDay": 370,
-    "timeWeek": 378,
+    "timeDay": 419,
+    "timeWeek": 389,
     "timeMonth": 445,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2022-09-15": 0,
+      "2022-09-15": 16,
       "2022-08-16": 18,
       "2022-08-10": 259,
       "2022-08-09": 549,
@@ -69,19 +69,19 @@
     "url": "https://cityscope.media.mit.edu/",
     "icon": "https://favicons.githubusercontent.com/cityscope.media.mit.edu",
     "slug": "city-scope-docsite",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 52,
-    "timeDay": 71,
-    "timeWeek": 40,
+    "timeDay": 62,
+    "timeWeek": 41,
     "timeMonth": 51,
     "timeYear": 52,
     "dailyMinutesDown": {
-      "2022-09-15": 0
+      "2022-09-15": 16
     }
   },
   {
@@ -89,11 +89,11 @@
     "url": "https://cityscope.media.mit.edu/CS_cityscopeJS/?editor",
     "icon": "https://favicons.githubusercontent.com/cityscope.media.mit.edu",
     "slug": "city-scope-editor",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 23,
     "timeDay": 8,
@@ -101,7 +101,7 @@
     "timeMonth": 11,
     "timeYear": 20,
     "dailyMinutesDown": {
-      "2022-09-15": 0
+      "2022-09-15": 16
     }
   }
 ]
