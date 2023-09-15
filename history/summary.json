@@ -4,18 +4,19 @@
     "url": "https://cityio.media.mit.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/cityio.media.mit.edu.ico",
     "slug": "city-io",
-    "status": "up",
-    "uptime": "95.25%",
+    "status": "down",
+    "uptime": "95.26%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "59.03%",
+    "uptimeWeek": "59.07%",
     "uptimeMonth": "90.17%",
-    "uptimeYear": "93.67%",
+    "uptimeYear": "93.68%",
     "time": 475,
-    "timeDay": 662,
-    "timeWeek": 333,
-    "timeMonth": 416,
-    "timeYear": 479,
+    "timeDay": 328,
+    "timeWeek": 355,
+    "timeMonth": 419,
+    "timeYear": 480,
     "dailyMinutesDown": {
+      "2023-09-15": 0,
       "2023-09-11": 1109,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
@@ -46,8 +47,7 @@
       "2022-10-05": 436,
       "2022-09-26": 1148,
       "2022-09-25": 1440,
-      "2022-09-24": 1407,
-      "2022-09-15": 37
+      "2022-09-24": 1407
     }
   },
   {
@@ -60,15 +60,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 49,
-    "timeDay": 96,
-    "timeWeek": 102,
-    "timeMonth": 60,
+    "timeDay": 14,
+    "timeWeek": 110,
+    "timeMonth": 62,
     "timeYear": 49,
-    "dailyMinutesDown": {
-      "2022-09-15": 37
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CityScope Editor",
@@ -80,14 +78,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 10,
-    "timeDay": 3,
-    "timeWeek": 15,
+    "timeDay": 6,
+    "timeWeek": 13,
     "timeMonth": 9,
     "timeYear": 10,
-    "dailyMinutesDown": {
-      "2022-09-15": 37
-    }
+    "dailyMinutesDown": {}
   }
 ]
