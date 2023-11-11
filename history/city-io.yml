@@ -1,7 +1,7 @@
 url: https://cityio.media.mit.edu/
-status: up
-code: 200
-responseTime: 269
-lastUpdated: 2023-11-10T23:04:09.307Z
+status: down
+code: 502
+responseTime: 171
+lastUpdated: 2023-11-11T06:29:08.954Z
 startTime: 2020-12-28T21:24:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
