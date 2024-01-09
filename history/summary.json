@@ -6,15 +6,15 @@
     "slug": "city-io",
     "status": "up",
     "uptime": "91.16%",
-    "uptimeDay": "50.82%",
-    "uptimeWeek": "74.53%",
-    "uptimeMonth": "55.34%",
-    "uptimeYear": "80.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "85.44%",
+    "uptimeMonth": "58.63%",
+    "uptimeYear": "80.84%",
     "time": 473,
-    "timeDay": 445,
-    "timeWeek": 556,
-    "timeMonth": 445,
-    "timeYear": 447,
+    "timeDay": 326,
+    "timeWeek": 547,
+    "timeMonth": 449,
+    "timeYear": 448,
     "dailyMinutesDown": {
       "2024-01-07": 711,
       "2024-01-06": 756,
@@ -107,8 +107,7 @@
       "2023-04-23": 1440,
       "2023-04-22": 1440,
       "2023-04-21": 1061,
-      "2023-03-21": 45,
-      "2023-01-09": 1215
+      "2023-03-21": 45
     }
   },
   {
@@ -123,10 +122,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 59,
-    "timeDay": 34,
-    "timeWeek": 41,
-    "timeMonth": 85,
-    "timeYear": 64,
+    "timeDay": 16,
+    "timeWeek": 39,
+    "timeMonth": 84,
+    "timeYear": 63,
     "dailyMinutesDown": {}
   },
   {
@@ -141,10 +140,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 13,
-    "timeDay": 3,
-    "timeWeek": 4,
+    "timeDay": 6,
+    "timeWeek": 5,
     "timeMonth": 22,
-    "timeYear": 15,
+    "timeYear": 14,
     "dailyMinutesDown": {}
   }
 ]
