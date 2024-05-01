@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cityio.media.mit.edu.ico",
     "slug": "city-io",
     "status": "up",
-    "uptime": "85.95%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "93.05%",
-    "uptimeYear": "63.30%",
-    "time": 428,
-    "timeDay": 247,
-    "timeWeek": 220,
-    "timeMonth": 196,
-    "timeYear": 412,
+    "uptime": "85.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "63.66%",
+    "time": 427,
+    "timeDay": 154,
+    "timeWeek": 192,
+    "timeMonth": 198,
+    "timeYear": 410,
     "dailyMinutesDown": {
-      "2024-04-29": 10,
       "2024-04-01": 368,
       "2024-03-31": 816,
       "2024-03-30": 1440,
@@ -171,9 +170,7 @@
       "2023-06-03": 311,
       "2023-05-08": 100,
       "2023-05-04": 905,
-      "2023-05-03": 1440,
-      "2023-05-02": 1440,
-      "2023-05-01": 1440
+      "2023-05-03": 1440
     }
   },
   {
@@ -181,35 +178,39 @@
     "url": "https://cityscope.media.mit.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/cityscope.media.mit.edu.ico",
     "slug": "city-scope-docsite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 78,
-    "timeDay": 170,
-    "timeWeek": 168,
-    "timeMonth": 143,
+    "timeDay": 150,
+    "timeWeek": 161,
+    "timeMonth": 149,
     "timeYear": 89,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-01": 0
+    }
   },
   {
     "name": "CityScope Editor",
     "url": "https://cityscope.media.mit.edu/CS_cityscopeJS/?editor",
     "icon": "https://icons.duckduckgo.com/ip3/cityscope.media.mit.edu.ico",
     "slug": "city-scope-editor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 20,
-    "timeDay": 31,
-    "timeWeek": 35,
-    "timeMonth": 38,
+    "timeDay": 8,
+    "timeWeek": 25,
+    "timeMonth": 39,
     "timeYear": 23,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-01": 0
+    }
   }
 ]
