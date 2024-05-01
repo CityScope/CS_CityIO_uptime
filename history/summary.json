@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.16%",
-    "uptimeYear": "63.66%",
+    "uptimeYear": "63.67%",
     "time": 427,
     "timeDay": 154,
     "timeWeek": 192,
@@ -178,19 +178,19 @@
     "url": "https://cityscope.media.mit.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/cityscope.media.mit.edu.ico",
     "slug": "city-scope-docsite",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 78,
-    "timeDay": 150,
-    "timeWeek": 161,
-    "timeMonth": 149,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
+    "time": 79,
+    "timeDay": 163,
+    "timeWeek": 164,
+    "timeMonth": 151,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2024-05-01": 0
+      "2024-05-01": 33
     }
   },
   {
@@ -198,19 +198,19 @@
     "url": "https://cityscope.media.mit.edu/CS_cityscopeJS/?editor",
     "icon": "https://icons.duckduckgo.com/ip3/cityscope.media.mit.edu.ico",
     "slug": "city-scope-editor",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 20,
-    "timeDay": 8,
-    "timeWeek": 25,
+    "timeDay": 17,
+    "timeWeek": 26,
     "timeMonth": 39,
     "timeYear": 23,
     "dailyMinutesDown": {
-      "2024-05-01": 0
+      "2024-05-01": 33
     }
   }
 ]
