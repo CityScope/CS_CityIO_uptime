@@ -4,18 +4,19 @@
     "url": "https://cityio.media.mit.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/cityio.media.mit.edu.ico",
     "slug": "city-io",
-    "status": "up",
-    "uptime": "87.88%",
+    "status": "down",
+    "uptime": "87.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "71.46%",
-    "time": 353,
-    "timeDay": 352,
-    "timeWeek": 286,
-    "timeMonth": 292,
-    "timeYear": 314,
+    "time": 352,
+    "timeDay": 213,
+    "timeWeek": 278,
+    "timeMonth": 287,
+    "timeYear": 313,
     "dailyMinutesDown": {
+      "2024-11-10": 0,
       "2024-04-01": 368,
       "2024-03-31": 816,
       "2024-03-30": 1440,
@@ -127,8 +128,7 @@
       "2023-11-19": 1440,
       "2023-11-18": 1047,
       "2023-11-13": 1216,
-      "2023-11-12": 1440,
-      "2023-11-11": 1051
+      "2023-11-12": 1440
     }
   },
   {
@@ -143,10 +143,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 128,
-    "timeDay": 58,
-    "timeWeek": 316,
-    "timeMonth": 199,
-    "timeYear": 151,
+    "timeDay": 183,
+    "timeWeek": 321,
+    "timeMonth": 201,
+    "timeYear": 152,
     "dailyMinutesDown": {
       "2024-05-01": 33
     }
@@ -163,9 +163,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 34,
-    "timeDay": 3,
-    "timeWeek": 31,
-    "timeMonth": 59,
+    "timeDay": 15,
+    "timeWeek": 33,
+    "timeMonth": 54,
     "timeYear": 41,
     "dailyMinutesDown": {
       "2024-05-01": 33
