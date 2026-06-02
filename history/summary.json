@@ -4,9 +4,9 @@
     "url": "https://cityio.media.mit.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/cityio.media.mit.edu.ico",
     "slug": "city-io",
-    "status": "up",
-    "uptime": "91.30%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "91.32%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.78%",
@@ -29,7 +29,8 @@
       "2026-04-28": 82,
       "2026-04-30": 25,
       "2026-05-01": 28,
-      "2026-05-06": 21
+      "2026-05-06": 21,
+      "2026-06-02": 0
     }
   },
   {
