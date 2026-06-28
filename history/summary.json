@@ -6,17 +6,16 @@
     "slug": "city-io",
     "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "81.44%",
-    "uptimeWeek": "91.09%",
-    "uptimeMonth": "84.74%",
-    "uptimeYear": "98.69%",
+    "uptimeDay": "75.03%",
+    "uptimeWeek": "90.75%",
+    "uptimeMonth": "84.53%",
+    "uptimeYear": "98.68%",
     "time": 261,
     "timeDay": 291,
     "timeWeek": 281,
     "timeMonth": 240,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2026-04-26": 19,
       "2026-04-27": 25,
       "2026-04-28": 82,
       "2026-04-30": 25,
@@ -47,7 +46,8 @@
       "2026-06-24": 51,
       "2026-06-25": 43,
       "2026-06-26": 83,
-      "2026-06-27": 268
+      "2026-06-27": 268,
+      "2026-06-28": 92
     }
   }
 ]
