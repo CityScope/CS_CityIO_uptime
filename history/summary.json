@@ -4,19 +4,18 @@
     "url": "https://cityio.media.mit.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/cityio.media.mit.edu.ico",
     "slug": "city-io",
-    "status": "down",
+    "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "84.20%",
-    "uptimeWeek": "92.45%",
-    "uptimeMonth": "96.53%",
-    "uptimeYear": "98.61%",
+    "uptimeDay": "72.92%",
+    "uptimeWeek": "90.84%",
+    "uptimeMonth": "96.16%",
+    "uptimeYear": "98.59%",
     "time": 260,
-    "timeDay": 302,
-    "timeWeek": 276,
-    "timeMonth": 241,
+    "timeDay": 323,
+    "timeWeek": 284,
+    "timeMonth": 244,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2026-06-08": 30,
       "2026-06-09": 44,
       "2026-06-10": 219,
       "2026-06-11": 269,
@@ -47,7 +46,7 @@
       "2026-07-27": 288,
       "2026-07-29": 246,
       "2026-08-01": 124,
-      "2026-08-02": 103
+      "2026-08-02": 265
     }
   }
 ]
